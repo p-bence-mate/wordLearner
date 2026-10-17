@@ -1,0 +1,92 @@
+<!doctype html>
+<html lang="hu">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#243b65">
+  <title>Szótanuló</title>
+  <link rel="stylesheet" href="style.css">
+  <script src="app.js" defer></script>
+</head>
+<body>
+  <header class="topbar">
+    <a class="brand" href="./" aria-label="Szótanuló főoldal">
+      <span class="brand-icon" aria-hidden="true">▤</span>
+      <span><strong>Szótanuló</strong><small>Tanulj könnyedén, lépésről lépésre!</small></span>
+    </a>
+    <a class="github-link" href="https://github.com/" target="_blank" rel="noreferrer" aria-label="GitHub">GH</a>
+  </header>
+
+  <main class="container">
+    <section id="setupView" class="panel setup-panel">
+      <p class="eyebrow">SAJÁT SZÓLISTÁDDAL</p>
+      <h1>Üdv a szótanulóban!</h1>
+      <p class="lead">Válaszd ki a beállításokat, majd indítsd a tesztet.</p>
+
+      <div class="field-group">
+        <label>Nyelvi irány</label>
+        <p class="field-help">Melyik oszlopból kérdezzen a program?</p>
+        <div class="radio-options">
+          <label class="radio-card"><input type="radio" name="language" value="0" checked><span>Angol → Magyar</span></label>
+          <label class="radio-card"><input type="radio" name="language" value="1"><span>Magyar → Angol</span></label>
+        </div>
+      </div>
+
+      <div class="field-group">
+        <label for="listSelect">Szólista</label>
+        <p class="field-help">Válassz egyet a beépített listák közül.</p>
+        <select id="listSelect">
+          <option value="data/german/starter-skipped.txt">Német / minta lista</option>
+        </select>
+        <p id="wordCount" class="field-help">Szólista betöltése…</p>
+      </div>
+
+      <div class="field-group">
+        <label for="questionCount">Hány szót kérdezzen a program?</label>
+        <input id="questionCount" type="number" min="1" value="10" step="1">
+      </div>
+      <p id="setupError" class="error" role="alert"></p>
+      <button id="startButton" class="primary">Teszt indítása <span aria-hidden="true">→</span></button>
+    </section>
+
+    <section id="quizView" class="panel hidden" aria-labelledby="questionTitle">
+      <div class="quiz-topline">
+        <span id="progressText">1 / 10</span>
+        <span id="scoreText">Pontszám: 0</span>
+      </div>
+      <div class="progress-track"><div id="progressFill"></div></div>
+      <div class="question-card">
+        <p id="directionText" class="eyebrow">ANGOL → MAGYAR</p>
+        <h2 id="questionTitle" class="question">house</h2>
+        <form id="answerForm">
+          <label class="sr-only" for="answerInput">Válaszod</label>
+          <input id="answerInput" type="text" autocomplete="off" placeholder="Írd be a jelentést…" required>
+          <div class="button-row">
+            <button id="checkButton" class="primary" type="submit">✓ Ellenőrzés</button>
+            <button id="skipButton" class="secondary" type="button">Kihagyás</button>
+          </div>
+        </form>
+        <p id="feedback" class="feedback" aria-live="polite"></p>
+      </div>
+      <button id="nextButton" class="primary hidden" type="button">Következő szó →</button>
+      <button id="quitButton" class="text-button" type="button">Teszt megszakítása</button>
+    </section>
+
+    <section id="resultView" class="panel hidden">
+      <p class="eyebrow">TESZT BEFEJEZVE</p>
+      <h1>Vége a tesztnek!</h1>
+      <div class="result-stats">
+        <div><span>Helyes válaszok</span><strong id="correctStat">0</strong></div>
+        <div><span>Eredmény</span><strong id="percentStat">0%</strong></div>
+        <div><span>Hibás / kihagyott</span><strong id="missedStat">0</strong></div>
+      </div>
+      <h2 class="review-heading">Átismétlendő szavak</h2>
+      <div id="reviewList" class="review-list"></div>
+      <button id="restartButton" class="primary">Új teszt</button>
+    </section>
+    <p id="globalError" class="error global-error" role="alert"></p>
+  </main>
+
+  <footer>Szótanuló · HTML, CSS és JavaScript · GitHub Pages</footer>
+</body>
+</html>

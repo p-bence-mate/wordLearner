@@ -1,0 +1,10 @@
+apple	alma
+book	könyv
+house	ház
+water	víz
+friend	barát
+school	iskola
+sun	nap
+moon	hold
+window	ablak
+bread	kenyér
