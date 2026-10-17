@@ -135,8 +135,8 @@ das Fieber	láz
 die Grippe	influenza
 der Husten	köhögés
 der Schnupfen	orrfolyás
-Ich habe Bauchschmerzen.	Fáj a hasam (Ich...)
-Mein Bauch tut mir weh.	Fáj a hasam (Mein...)
+Ich habe Bauchschmerzen.	Fáj a hasam(Ich...)
+Mein Bauch tut mir weh.	Fáj a hasam(Mein...)
 Ich bin krank.	Beteg vagyok
 das Bad	Fürdő
 der Balkon	Erkély
