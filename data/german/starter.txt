@@ -182,7 +182,7 @@ der Regen	eső
 der Schnee	hó
 die Sonne	nap
 der Wind	szél
-bewölkt	felhős
+bewölkt	borult
 frostig	fagyos
 heiß	forró
 kalt	hideg
