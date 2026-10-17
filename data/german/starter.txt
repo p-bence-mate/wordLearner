@@ -1,0 +1,213 @@
+der Arzt / die Ärztin	orvos
+der / die Babysitter/-in	babysitter
+der / die Bäcker/-in	pék
+der / die Briefträger/-in	postás
+der / die Busfahrer/-in	buszsofőr
+der / die Friseur/-in	fodrász
+der Hausmann / die Hausfrau	házvezető
+der / die Informatiker/-in	informatikus
+der / die Ingenieur/-in	mérnök
+der / die Kellner/-in	pincér
+der Koch / die Köchin	szakács
+der Krankenpfleger / die Krankenschwester	betegápoló
+der / die Lehrer/-in	tanár
+der / die Mechaniker/-in	szerelő
+der / die Polizist/-in	rendőr
+der / die Regisseur/-in	rendező
+der / die Schauspieler/-in	színész
+der / die Verkäufer/-in	bolti eleadó
+der / die Zeitungsausträger/-in	újságkihordó
+Rad fahren	biciklizni
+Filme sehen	filmet nézni
+ins Kino / ins Theater / in die Disco gehen	moziba/színházba/diszkóba menni
+schwimmen	úszni
+tanzen	táncolni
+Bücher lesen	könyvket olvasni
+Musik hören	zenét hallgatni
+Sport machen	sportolni
+am Computer spielen	számítógépezni
+Tennis / Fußball spielen	tenniszetni/focizni
+fotografieren	fotózni
+fernsehen	tévétnézni
+kochen	főzni
+Freunde treffen	bárátokkal találkozni
+Deutsch	német
+Englisch	angol
+Französisch	francia
+Polnisch	lengyel
+Russisch	orosz
+Spanisch	spanyol
+Biologie	biológia
+Chemie	kémia
+Erdkunde	földrajz
+Ethik	etika
+Geschichte	történelem
+Informatik	informatika
+Kunst	művészet
+Mathematik	matematika
+Musik	zene/ének
+Physik	fizika
+Religion	vallás/hittan
+Sport	testnevelés
+Sozialkunde	társadalom ismeret
+Technik	teknika
+der Bleistift	ceruza
+das Buch	könyv
+der Buntstift	színesceruza
+der Füller	töltőtoll
+das Heft	füzet
+der Kugelschreiber	golyóstoll
+das Lehrbuch	tankönyv
+das Lineal	vonalzó
+das Mäppchen	tolltartó
+der Radiergummi	radír
+der Rucksack	hátizsák
+die Schere	olló
+der Spitzer	faragó
+der Taschenrechner	számológép
+der Tintenkiller	hibajavító
+das Turnzeug	tesicucc
+das Übungsbuch	munkafüzet
+der Zirkel	körző
+der Apfel	alma
+die Banane	banán
+das Brot	kenyér
+das Brötchen	zsemle
+die Butter	vaj
+das Ei	tojás
+das Eis	jég/fagyi
+der Fisch	hal
+das Fleisch	hús
+das Gemüse	zöldség
+das Getränk	innivaló
+die Gurke	uborka
+der Honig	méz
+der / das Joghurt	joghurt
+der Kaffee	kávé
+die Kartoffel	krumpli
+der Käse	sajt
+der Kohl	káposzta
+der Kuchen	süti
+die Marmelade	lekvár
+die Milch	tej
+die Nudel	tészta
+das Obst	gyümölcs
+das Öl	olaj
+die Orange	narancs
+der / die Paprika	paprika
+die Pommes frites (Pl.)	sültkrumpli
+der Reis	rizs
+der Saft	lé
+der Salat	saláta
+die Schokolade	csoki
+der Spinat	spenót
+die Süßigkeiten (Pl.)	édesség
+der Tee	tea
+die Tomate	paradicsom
+das Wasser	víz
+die Wurst	kolbász
+die Zitrone	citrom
+der Zucker	cukor
+die Zwiebel	hagyma
+der Arm	kar
+das Auge	szem
+der Bauch	has
+das Bein	láb/lábszár
+die Brust	mell
+der Finger	ujj
+der Fuß	lábfej
+das Gesicht	arc
+das Haar	haj
+der Hals	nyak/torok
+die Hand	kéz
+das Herz	szív
+der Kopf	fej
+der Magen	gyomor
+die Nase	orr
+das Ohr	fül
+der Rücken	hát
+der Zahn	fog
+die Zehe	lábujj
+die Angina	torok fájás
+das Asthma	aszma
+die Bauchschmerzen (Pl.)	hasfájás
+das Fieber	láz
+die Grippe	influenza
+der Husten	köhögés
+der Schnupfen	orrfolyás
+Ich habe Bauchschmerzen.	Fáj a hasam
+Mein Bauch tut mir weh.	Fáj a hasam
+Ich bin krank.	Beteg vagyok
+das Bad	Fürdő
+der Balkon	Erkély
+der Flur	folyosó
+die Garage	garázs
+das Kinderzimmer	gyerekszoba
+die Küche	konyha
+das Schlafzimmer	hálószoba
+die Terrasse	terasz
+die Toilette	mosdó
+das Wohnzimmer	nappali
+das Zimmer	szoba
+die Badewanne	fürdőkád
+das Bett	ágy
+das Bild	kép
+der Computer	számítógép
+die Couch	kanapé
+die Dusche	zuhanyzó
+der Elektroherd	elektromos tűzhely
+der Fernseher	TV
+das Gerät	eszköz
+die Kommode	komód
+der Kühlschrank	hűtő
+die Lampe	lámpa
+die Mikrowelle	mikró
+das Regal	polc
+der Schrank	szekrény
+der Schreibtisch	íróasztal
+der Sessel	karosszék
+das Sofa	kanapé(s)
+die Spülmaschine	mosogatógép
+der Stuhl	szék
+der Teppich	szőnyeg
+der Tisch	asztal
+die Waschmaschine	mosógép
+Es blitzt.	villámlik
+Es donnert.	dörög az ég
+Es regnet.	esik az eső
+Es schneit.	havazik
+das Gewitter	vihar
+der Nebel	köd
+der Regen	eső
+der Schnee	hó
+die Sonne	nap
+der Wind	szél
+bewölkt	felhős
+frostig	fagyos
+heiß	forró
+kalt	hideg
+neblig	ködös
+sonnig	napos
+warm	meleg
+windig	szeles
+wolkig	felhős
+das Auto	autó
+der Bus	busz
+das Fahrrad	bicikli
+das Flugzeug	repülő
+das Schiff	hajó
+die Straßenbahn	villamos
+die U-Bahn	metró
+der Zug	vonat
+das Ausland	külföld
+die Berge	hegyek
+der Fluss	folyó
+das Land	ország
+das Meer	tenger(m)
+der See	tó
+die See	tenger(s)
+die Stadt	város
+der Frühling	tavasz
+der Sommer	nyár
+der Herbst	ősz
+der Winter	tél
