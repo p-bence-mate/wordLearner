@@ -1,0 +1,20 @@
+Deutsch	német
+Englisch	angol
+Französisch	francia
+Polnisch	lengyel
+Russisch	orosz
+Spanisch	spanyol
+Biologie	biológia
+Chemie	kémia
+Erdkunde	földrajz
+Ethik	etika
+Geschichte	történelem
+Informatik	informatika
+Kunst	művészet
+Mathematik	matematika
+Musik	zene/ének
+Physik	fizika
+Religion	vallás/hittan
+Sport	testnevelés
+Sozialkunde	társadalom ismeret
+Technik	teknika

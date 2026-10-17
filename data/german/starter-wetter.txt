@@ -1,0 +1,19 @@
+Es blitzt.	villámlik
+Es donnert.	dörög az ég
+Es regnet.	esik az eső
+Es schneit.	havazik
+das Gewitter	vihar
+der Nebel	köd
+der Regen	eső
+der Schnee	hó
+die Sonne	nap
+der Wind	szél
+bewölkt	borult
+frostig	fagyos
+heiß	forró
+kalt	hideg
+neblig	ködös
+sonnig	napos
+warm	meleg
+windig	szeles
+wolkig	felhős

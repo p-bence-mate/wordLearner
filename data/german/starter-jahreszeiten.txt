@@ -1,0 +1,4 @@
+der Frühling	tavasz
+der Sommer	nyár
+der Herbst	ősz
+der Winter	tél

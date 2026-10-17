@@ -1,0 +1,8 @@
+das Auto	autó
+der Bus	busz
+das Fahrrad	bicikli
+das Flugzeug	repülő
+das Schiff	hajó
+die Straßenbahn	villamos
+die U-Bahn	metró
+der Zug	vonat

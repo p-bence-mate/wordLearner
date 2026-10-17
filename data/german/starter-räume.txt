@@ -1,0 +1,11 @@
+das Bad	Fürdő
+der Balkon	Erkély
+der Flur	folyosó
+die Garage	garázs
+das Kinderzimmer	gyerekszoba
+die Küche	konyha
+das Schlafzimmer	hálószoba
+die Terrasse	terasz
+die Toilette	mosdó
+das Wohnzimmer	nappali
+das Zimmer	szoba

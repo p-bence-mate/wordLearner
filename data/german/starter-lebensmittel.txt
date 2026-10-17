@@ -1,0 +1,40 @@
+der Apfel	alma
+die Banane	banán
+das Brot	kenyér
+das Brötchen	zsemle
+die Butter	vaj
+das Ei	tojás
+das Eis	jég/fagyi
+der Fisch	hal
+das Fleisch	hús
+das Gemüse	zöldség
+das Getränk	innivaló
+die Gurke	uborka
+der Honig	méz
+der / das Joghurt	joghurt
+der Kaffee	kávé
+die Kartoffel	krumpli
+der Käse	sajt
+der Kohl	káposzta
+der Kuchen	süti
+die Marmelade	lekvár
+die Milch	tej
+die Nudel	tészta
+das Obst	gyümölcs
+das Öl	olaj
+die Orange	narancs
+der / die Paprika	paprika
+die Pommes frites (Pl.)	sültkrumpli
+der Reis	rizs
+der Saft	lé
+der Salat	saláta
+die Schokolade	csoki
+der Spinat	spenót
+die Süßigkeiten (Pl.)	édesség
+der Tee	tea
+die Tomate	paradicsom
+das Wasser	víz
+die Wurst	kolbász
+die Zitrone	citrom
+der Zucker	cukor
+die Zwiebel	hagyma

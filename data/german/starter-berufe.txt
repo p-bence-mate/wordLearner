@@ -1,0 +1,19 @@
+der Arzt / die Ärztin	orvos
+der / die Babysitter/-in	babysitter
+der / die Bäcker/-in	pék
+der / die Briefträger/-in	postás
+der / die Busfahrer/-in	buszsofőr
+der / die Friseur/-in	fodrász
+der Hausmann / die Hausfrau	házvezető
+der / die Informatiker/-in	informatikus
+der / die Ingenieur/-in	mérnök
+der / die Kellner/-in	pincér
+der Koch / die Köchin	szakács
+der Krankenpfleger / die Krankenschwester	betegápoló
+der / die Lehrer/-in	tanár
+der / die Mechaniker/-in	szerelő
+der / die Polizist/-in	rendőr
+der / die Regisseur/-in	rendező
+der / die Schauspieler/-in	színész
+der / die Verkäufer/-in	bolti eleadó
+der / die Zeitungsausträger/-in	újságkihordó

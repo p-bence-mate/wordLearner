@@ -1,0 +1,23 @@
+die Badewanne	fürdőkád
+das Bett	ágy
+das Bild	kép
+der Computer	számítógép
+die Couch	kanapé
+die Dusche	zuhanyzó
+der Elektroherd	elektromos tűzhely
+der Fernseher	TV
+das Gerät	eszköz
+die Kommode	komód
+der Kühlschrank	hűtő
+die Lampe	lámpa
+die Mikrowelle	mikró
+das Regal	polc
+der Schrank	szekrény
+der Schreibtisch	íróasztal
+der Sessel	karosszék
+das Sofa	kanapé(s)
+die Spülmaschine	mosogatógép
+der Stuhl	szék
+der Teppich	szőnyeg
+der Tisch	asztal
+die Waschmaschine	mosógép

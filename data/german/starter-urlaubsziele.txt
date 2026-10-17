@@ -1,0 +1,8 @@
+das Ausland	külföld
+die Berge	hegyek
+der Fluss	folyó
+das Land	ország
+das Meer	tenger(m)
+der See	tó
+die See	tenger(s)
+die Stadt	város
