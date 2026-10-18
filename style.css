@@ -87,7 +87,7 @@ body {
   min-height: 100vh;
   color: var(--text);
   font-family: "DM Sans", system-ui, sans-serif;
-  background: radial-gradient(ellipse at top left, #e9f1ff, transparent 48%), var(--bg);
+  background: var(--bg);
 }
 .topbar {
   display: flex; align-items: center; justify-content: space-between;

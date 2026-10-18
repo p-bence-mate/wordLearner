@@ -16,5 +16,5 @@ Musik	zene/ének
 Physik	fizika
 Religion	vallás/hittan
 Sport	testnevelés
-Sozialkunde	társadalom ismeret
+Sozialkunde	társadalomismeret
 Technik	teknika

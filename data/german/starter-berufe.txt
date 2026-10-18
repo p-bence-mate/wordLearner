@@ -15,5 +15,5 @@ der / die Mechaniker/-in	szerelő
 der / die Polizist/-in	rendőr
 der / die Regisseur/-in	rendező
 der / die Schauspieler/-in	színész
-der / die Verkäufer/-in	bolti eleadó
+der / die Verkäufer/-in	bolti eladó
 der / die Zeitungsausträger/-in	újságkihordó

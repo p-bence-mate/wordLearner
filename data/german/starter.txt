@@ -15,20 +15,20 @@ der / die Mechaniker/-in	szerelő
 der / die Polizist/-in	rendőr
 der / die Regisseur/-in	rendező
 der / die Schauspieler/-in	színész
-der / die Verkäufer/-in	bolti eleadó
+der / die Verkäufer/-in	bolti eladó
 der / die Zeitungsausträger/-in	újságkihordó
 Rad fahren	biciklizni
 Filme sehen	filmet nézni
 ins Kino / ins Theater / in die Disco gehen	moziba/színházba/diszkóba menni
 schwimmen	úszni
 tanzen	táncolni
-Bücher lesen	könyvket olvasni
+Bücher lesen	könyveket olvasni
 Musik hören	zenét hallgatni
 Sport machen	sportolni
 am Computer spielen	számítógépezni
-Tennis / Fußball spielen	tenniszetni/focizni
+Tennis / Fußball spielen	teniszezni / focizni
 fotografieren	fotózni
-fernsehen	tévétnézni
+fernsehen	tévét nézni
 kochen	főzni
 Freunde treffen	bárátokkal találkozni
 Deutsch	német
@@ -49,7 +49,7 @@ Musik	zene/ének
 Physik	fizika
 Religion	vallás/hittan
 Sport	testnevelés
-Sozialkunde	társadalom ismeret
+Sozialkunde	társadalomismeret
 Technik	teknika
 der Bleistift	ceruza
 das Buch	könyv
@@ -95,7 +95,7 @@ das Obst	gyümölcs
 das Öl	olaj
 die Orange	narancs
 der / die Paprika	paprika
-die Pommes frites (Pl.)	sültkrumpli
+die Pommes frites (Pl.)	sült krumpli
 der Reis	rizs
 der Saft	lé
 der Salat	saláta
@@ -128,8 +128,8 @@ das Ohr	fül
 der Rücken	hát
 der Zahn	fog
 die Zehe	lábujj
-die Angina	torok fájás
-das Asthma	aszma
+die Angina	torokfájás
+das Asthma	asztma
 die Bauchschmerzen (Pl.)	hasfájás
 das Fieber	láz
 die Grippe	influenza

@@ -3,12 +3,12 @@ Filme sehen	filmet nézni
 ins Kino / ins Theater / in die Disco gehen	moziba/színházba/diszkóba menni
 schwimmen	úszni
 tanzen	táncolni
-Bücher lesen	könyvket olvasni
+Bücher lesen	könyveket olvasni
 Musik hören	zenét hallgatni
 Sport machen	sportolni
 am Computer spielen	számítógépezni
-Tennis / Fußball spielen	tenniszetni/focizni
+Tennis / Fußball spielen	tenniszezni/focizni
 fotografieren	fotózni
-fernsehen	tévétnézni
+fernsehen	tévét nézni
 kochen	főzni
-Freunde treffen	bárátokkal találkozni
+Freunde treffen	barátokkal találkozni

@@ -1,5 +1,5 @@
 die Angina	torok fájás
-das Asthma	aszma
+das Asthma	asztma
 die Bauchschmerzen (Pl.)	hasfájás
 das Fieber	láz
 die Grippe	influenza

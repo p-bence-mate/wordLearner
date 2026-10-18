@@ -24,7 +24,7 @@ das Obst	gyümölcs
 das Öl	olaj
 die Orange	narancs
 der / die Paprika	paprika
-die Pommes frites (Pl.)	sültkrumpli
+die Pommes frites (Pl.)	sült krumpli
 der Reis	rizs
 der Saft	lé
 der Salat	saláta
