@@ -205,3 +205,37 @@ $("#restartButton").addEventListener("click", () => {
 listSelect.addEventListener("change", loadWordList);
 
 loadWordList();
+
+
+/* ===== SÖTÉT MÓD ===== */
+
+const themeToggle = document.querySelector("#themeToggle");
+
+function setTheme(theme) {
+  document.documentElement.dataset.theme = theme;
+
+  const isDark = theme === "dark";
+
+  themeToggle.textContent = isDark ? "☀" : "☾";
+  themeToggle.title = isDark ? "Világos mód" : "Sötét mód";
+
+  themeToggle.setAttribute(
+    "aria-label",
+    isDark
+      ? "Világos mód bekapcsolása"
+      : "Sötét mód bekapcsolása"
+  );
+
+  localStorage.setItem("szotanulo-theme", theme);
+}
+
+// A korábban elmentett téma visszaállítása
+const savedTheme = localStorage.getItem("szotanulo-theme");
+setTheme(savedTheme || "light");
+
+// Váltás világos és sötét mód között
+themeToggle.addEventListener("click", () => {
+  const currentTheme = document.documentElement.dataset.theme;
+
+  setTheme(currentTheme === "dark" ? "light" : "dark");
+});
